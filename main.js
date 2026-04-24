@@ -105,6 +105,7 @@ let quection = mainElement1.innerText + " " + mathIcon.innerText + " " + mainEle
    displayScore();
    updateHighScore();
    generateQuection();
+   startTimer()
    renderHishtory()
 
 }
